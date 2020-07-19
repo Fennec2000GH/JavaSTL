@@ -1,6 +1,4 @@
 
-package Function;
-import java.util.TreeMap;
 import java.util.function.Function;
 
 public class FunctionExample {

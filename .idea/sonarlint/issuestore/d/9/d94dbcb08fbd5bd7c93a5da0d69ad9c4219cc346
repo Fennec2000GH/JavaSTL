@@ -1,0 +1,70 @@
+
+i
+java:S1192"LDefine a constant instead of duplicating this literal "test string" 7 times.(Û—´™8¹ëŠª´.
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(©Ëæ 8óêœª´.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚³¦8®ªãª´.
+V
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(Óà›÷8é¼ø©´.
+R
+java:S5669("5Use an array of 'Byte' instead of an array of 'byte'.(©Ëæ 8Ş–˜ª´.
+[
+java:S4719-"9Replace charset name argument with StandardCharsets.UTF_8(ş¾ôåûÿÿÿÿ8Ş‰·ª´.
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(ŠëÒµúÿÿÿÿ8ˆæ«´.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ßŠ·Åøÿÿÿÿ8¹ëŠª´.
+V
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(øç‡Õ8é¼ø©´.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(©Ëæ 8˜´ª´.
+R
+java:S5669"5Use an array of 'Byte' instead of an array of 'byte'.(­Ğ¾8”è˜ª´.
+[
+java:S4719?"9Replace charset name argument with StandardCharsets.UTF_8(¹‘ëùÿÿÿÿ8ê‡î«´.
+[
+java:S4719C"9Replace charset name argument with StandardCharsets.UTF_8(Öğù”øÿÿÿÿ8ˆæ«´.
+R
+java:S5669*"5Use an array of 'Byte' instead of an array of 'byte'.(©Ëæ 8óêœª´.
+R
+java:S5669"5Use an array of 'Byte' instead of an array of 'byte'.(Óà›÷8”è˜ª´.
+V
+java:S4719'"9Replace charset name argument with StandardCharsets.UTF_8(â´å¯8¥†•ª´.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ò«ùÿÿÿÿ8¹ëŠª´.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µØ–Ÿúÿÿÿÿ8ïŸäª´.
+V
+java:S47195"9Replace charset name argument with StandardCharsets.UTF_8(á»¿8å¤Îª´.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„ò¯À8ä´ª´.
+d
+java:S1192"GDefine a constant instead of duplicating this literal "UTF-8" 10 times.(Û—´™8é¼ø©´.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Óà›÷8é¼ø©´.
+W
+java:S2209A"5Change this instance-reference to a static reference.(ŠëÒµúÿÿÿÿ8ˆæ«´.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(óªêûÿÿÿÿ8çÒçª´.
+R
+java:S56694"5Use an array of 'Byte' instead of an array of 'byte'.(©Ëæ 8˜´ª´.
+W
+java:S5669D"5Use an array of 'Byte' instead of an array of 'byte'.(à÷€ëşÿÿÿÿ8ˆæ«´.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(©Ëæ 8ï„Ïª´.
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(à÷€ëşÿÿÿÿ8ˆæ«´.
+k
+java:S1192"NDefine a constant instead of duplicating this literal "digest: %s%n" 10 times.(„ò¯À8Ø«Œª´.
+R
+java:S5669"5Use an array of 'Byte' instead of an array of 'byte'.(„ò¯À8ä´ª´.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(®àÆ8¹ëŠª´.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(©Ëæ 8ğÂ—ª´.
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(©Ëæ 8Óòïª´.
+W
+java:S5669F"5Use an array of 'Byte' instead of an array of 'byte'.(ı†öıÿÿÿÿ8‘Åæ«´.
+V
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(Û—´™8¹ëŠª´.
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(ŠÄòå8ÉÕö«´.
+R
+java:S56696"5Use an array of 'Byte' instead of an array of 'byte'.(©Ëæ 8ï„Ïª´.
+V
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(ØÿÇà8é¼ø©´.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(­Ğ¾8é¼ø©´.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ØÿÇà8é¼ø©´.
+[
+java:S4719@"9Replace charset name argument with StandardCharsets.UTF_8(Ì–ê£ıÿÿÿÿ8ê‡î«´.
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ı†öıÿÿÿÿ8‘Åæ«´.
+R
+java:S56697"5Use an array of 'Byte' instead of an array of 'byte'.(©Ëæ 8Óòïª´.
+7
+java:S1220""Move this file to a named package.8˜şõª¶.

@@ -9,3 +9,5 @@ L
 JavaSTL.iml,f\2\f24b892e870478e722e24b77e76f644a0da52cdf
 V
 &src/Security/MessageDigestExample.java,d\9\d94dbcb08fbd5bd7c93a5da0d69ad9c4219cc346
+_
+/src/Advanced Features/SerializationExample.java,f\1\f17375811dbb8a4191c6589f73c8a3a145f0a0b6

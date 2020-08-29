@@ -1,0 +1,59 @@
+
+o	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½˜à•øÿÿÿÿ8¶Ìûœ¹.
+U	java:S106‰"9Replace this use of System.out or System.err by a logger.(è¯„8‘”Ÿ¹.
+k
+java:S2095¸"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ıæÃ‚8‘”Ÿ¹.
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(Š™Ğµ8ÒÚœ¹.
+3
+java:S1700]"Rename field "bouquet"(Óû¢Â8ğµŸ¹.
+s
+java:S2095‘"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ˆÔ§ğşÿÿÿÿ8ê‹áŸ¹.
+x	java:S116"WRename this field "petal_length" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û–Îûÿÿÿÿ8¸Í™œ¹.
+r
+java:S2095¹"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¾Å¨Îûÿÿÿÿ8ğµŸ¹.
+q
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(áíÄÚıÿÿÿÿ8†¤äŸ¹.
+m	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÅ±8ğµŸ¹.
+V	java:S106¾"9Replace this use of System.out or System.err by a logger.(¿Ú•¦8‹×ı¹.
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(¡ÉÛõüÿÿÿÿ8§Îÿ¹.
+o	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¸Ä¢ÿÿÿÿÿ8¶Ìûœ¹.
+o	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÖ¢„øÿÿÿÿ8Œ§œ¹.
+r
+java:S2095€"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¾Å¨Îûÿÿÿÿ8ğµŸ¹.
+q	java:S116"VRename this field "petal_width" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öéÚ38¸Í™œ¹.
+U	java:S106½"9Replace this use of System.out or System.err by a logger.(Á“Áo8šÉİŸ¹.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¾Ô§øÿÿÿÿ8ğµŸ¹.
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ÓŞ¶Şûÿÿÿÿ8Å¸”¹.
+r	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¸Ä¢ÿÿÿÿÿ8²¹.
+[	java:S106£"9Replace this use of System.out or System.err by a logger.(â„ÃŒøÿÿÿÿ8†¤äŸ¹.
+r
+java:S2095œ"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¾Å¨Îûÿÿÿÿ8†¤äŸ¹.
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇóÄ8ãĞ œ¹.
+[	java:S106Š"9Replace this use of System.out or System.err by a logger.(ù¼«²ùÿÿÿÿ8ğµŸ¹.
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ûøúˆ8ùüÚœ¹.
+v
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Î€ë8ğµŸ¹.
+l
+java:S2095®"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(çñÊ8‘”Ÿ¹.
+U	java:S106z"9Replace this use of System.out or System.err by a logger.(ô¢©8ğµŸ¹.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¶ÎĞ üÿÿÿÿ8†¤äŸ¹.
+[	java:S106¢"9Replace this use of System.out or System.err by a logger.(Õ°¦¶üÿÿÿÿ8†¤äŸ¹.
+k
+java:S2095›"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ãÍÒˆ8†¤äŸ¹.
+[	java:S106‡"9Replace this use of System.out or System.err by a logger.(Ï¼ÿ§úÿÿÿÿ8ùüÚœ¹.
+V	java:S106 "9Replace this use of System.out or System.err by a logger.(ˆ®²ö8†¤äŸ¹.
+r	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è»«üûÿÿÿÿ8ğµŸ¹.
+V	java:S106·"9Replace this use of System.out or System.err by a logger.(Å„Í¿8šÉİŸ¹.
+Y
+java:S3972G"7Move this "if" to a new line or add the missing "else".(·í†çùÿÿÿÿ8²³¦Ÿ¹.
+j	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¥¢¦8Ş¨œ¹.
+U	java:S106š"9Replace this use of System.out or System.err by a logger.(ÚŞë8†¤äŸ¹.
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇóÄ8ãĞ œ¹.
+r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½˜à•øÿÿÿÿ8ã±¹.
+V	java:S106…"9Replace this use of System.out or System.err by a logger.(µ›ìã8ÂšŸ¹.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯§ˆ»ÿÿÿÿÿ8†¤äŸ¹.
+[	java:S106¡"9Replace this use of System.out or System.err by a logger.(ğ³æÂûÿÿÿÿ8†¤äŸ¹.
+s
+java:S2095¯"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ˆÔ§ğşÿÿÿÿ8ğµŸ¹.
+V	java:S106¿"9Replace this use of System.out or System.err by a logger.(â™¡Ü8‘”Ÿ¹.
+[	java:S106À"9Replace this use of System.out or System.err by a logger.(ıÔìüùÿÿÿÿ8ø¯áŸ¹.

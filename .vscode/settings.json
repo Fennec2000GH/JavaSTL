@@ -1,0 +1,16 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files\\Java\\jdk-14\\lib\\reactive-streams-1.0.3.jar",
+        "c:\\Program Files\\Java\\jdk-14\\lib\\rxjava-2.2.19.jar"
+    ],
+    "go.alternateTools": {
+        "go": "D:\\tools\\Go"
+    },
+    "go.autocompleteUnimportedPackages": true,
+    "java.codeGeneration.generateComments": true,
+    "java.import.gradle.home": "",
+    "background.useDefault": false,
+    "background.customImages": [
+    ]
+}
